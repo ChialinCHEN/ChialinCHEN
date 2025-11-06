@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# About ME!
+
+My name is *Chialin CHEN*, a Year 3 UG student in HKUST(GZ), and I am currently studying as an exchange student in University of Bologna.
+
+I promise you'll never find someone like ME!
