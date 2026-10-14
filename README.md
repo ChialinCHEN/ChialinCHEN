@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# About ME!
+# Personal Info
 
-My name is *Chialin CHEN*, a Year 3 UG student in HKUST(GZ), and I am currently studying as an exchange student in University of Bologna.
-
-I promise you'll never find someone like ME!
+My name: *Chialin CHEN*, 
+Education: The Hong Kong University of Science And Technology(Guangzhou) [BEng in AI, 2023-2027]
+           Alma Mater Studiorum - University of Bologna [Exchange Student,2025]
