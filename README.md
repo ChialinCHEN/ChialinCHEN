@@ -21,4 +21,5 @@ My name: *Chialin CHEN*
 
 ## Education 
 The Hong Kong University of Science And Technology(Guangzhou) [BEng in AI, 2023-2027]
+
 Alma Mater Studiorum - University of Bologna [Exchange Student,2025]
