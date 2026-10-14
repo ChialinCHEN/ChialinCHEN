@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **ChialinCHEN/ChialinCHEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 # Personal Info
 
-My name: *Chialin CHEN*, 
-Education: The Hong Kong University of Science And Technology(Guangzhou) [BEng in AI, 2023-2027]
-           Alma Mater Studiorum - University of Bologna [Exchange Student,2025]
+My name: *Chialin CHEN*
+
+## Education 
+The Hong Kong University of Science And Technology(Guangzhou) [BEng in AI, 2023-2027]
+Alma Mater Studiorum - University of Bologna [Exchange Student,2025]
