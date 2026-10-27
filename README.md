@@ -42,6 +42,4 @@ The baseline detects a face, embeds it with FaceNet, matches the embedding to an
 - Information retrieval: BM25, BGE-M3, reciprocal rank fusion
 - Tools: Git, FastAPI, Unity
 
-## CV
 
-CV PDF: not yet posted.
