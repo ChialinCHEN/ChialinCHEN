@@ -11,11 +11,9 @@ I am an undergraduate student in Artificial Intelligence at The Hong Kong Univer
 
 ## Selected Projects
 
-### Query Optimization for Pediatric Influenza Retrieval
+### RAG-Based Pediatric Case Analysis
 
-Ongoing final-year work on a shared private repository. These experiments are not yet public.
-
-The pipeline retrieves guideline passages for one pediatric case. I compared query formulations for a hybrid retriever, BM25 and BGE-M3 fused by reciprocal rank fusion, on 52 cases. Syndrome-passage Hit@5 moves from 31/52 to 52/52 when the TCM query prefix is shortened; most of the additional hits come from one passage that covers several syndromes, so the score is not a syndrome-specific diagnosis rate.
+Built a hybrid retrieval pipeline using BM25, BGE-M3, and reciprocal rank fusion for pediatric medical literature retrieval. Developed query optimization for medical term mapping, negation preservation, and multi-query reformulation.
 
 ### Emotion-Aware Music Reasoning
 
@@ -41,5 +39,3 @@ The baseline detects a face, embeds it with FaceNet, matches the embedding to an
 - Machine learning: PyTorch, Hugging Face Transformers
 - Information retrieval: BM25, BGE-M3, reciprocal rank fusion
 - Tools: Git, FastAPI, Unity
-
-
